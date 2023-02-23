@@ -10,4 +10,4 @@ class CreateRestaurants < ActiveRecord::Migration[7.0]
     end
   end
 end
-A review has a rating, content, and belongs to a restaurant
+# A review has a rating, content, and belongs to a restaurant
